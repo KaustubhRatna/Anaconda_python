@@ -7,6 +7,8 @@ st.write("""
 
 Shown are the stock closing price and volume of Google!
 
+Created by Kaustubh Ratna
+
 """)
 
 
